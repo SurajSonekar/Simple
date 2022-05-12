@@ -1,0 +1,8 @@
+public class Suraj{
+String name="suraj";
+String rollno="456789";
+public static void main (String [] args){
+System.out.println("Name"+name);
+System.out.println("Name"+rollno);
+}
+}
