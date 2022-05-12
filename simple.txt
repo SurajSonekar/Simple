@@ -5,4 +5,4 @@ public static void main (String [] args){
 System.out.println("Name"+name);
 System.out.println("Name"+rollno);
 }
-}
+}123456
